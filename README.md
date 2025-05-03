@@ -46,3 +46,6 @@ Random eco-friendly financial tips are displayed within the app to encourage gre
 🔒 All user credentials are stored in a local users.json file. For production, consider integrating a secure authentication service or database with hashing.
 
 
+click here for live demo:
+
+https://myfintracker.streamlit.app/
